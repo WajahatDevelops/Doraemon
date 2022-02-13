@@ -1,7 +1,5 @@
 from turtle import *
 
-
-# Doraemon with Python Turtle by codingwithsagar
 def ankle(x, y):
     penup()
     goto(x, y)
